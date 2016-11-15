@@ -2,4 +2,4 @@
 
 ## Chapter 1
 ## Chapter 2 
-..* excercise 1
+* excercise 1
